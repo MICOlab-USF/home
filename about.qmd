@@ -5,23 +5,26 @@ title: "People"
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Maggi_headhex.png)
 
-**Margaret (Maggi) Mars Brisbin** is the PI of the MICO lab.
+**Margaret (Maggi) Mars Brisbin** (she/her) is the PI of the MICO lab and Assistant Professor at the University of South Florida College of Marine Science. Maggi completed her Ph.D. at the Okinawa Institute of Science and Technology (Japan), where she worked under Prof. Satoshi Mitarai to comprehensively characterize the symbiosis between acantharian protists and the Haptophyte phytoplankton *Phaeocystis*. Side projects and ongoing interests include investigating how typhoons and urbanization disturb coastal ecosystems. Recent research has focused on positive and negative interactions between *Phaeocystis* and their colony microbiomes, and the impact such interactions have on bloom formation. Maggi is passionate about science communication and outreach and building an inclusive and supportive lab.
+[![twitter](images/twitter.png)](https://twitter.com/MargaretBrisbin) [![email](images/email.png)](mailto:maggi.mars@gmail.com) [![scholar](images/scholar.png)](https://scholar.google.com/citations?user=cx44qVMAAAAJ&hl=en&oi=ao)
+
+
 :::
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/andreas_acanth.png)
 
-**Andreas Norlin** is joining the MICO lab as a PhD student in Fall 2023.
+**Andreas Norlin** is joining the MICO lab as a Ph.D. student in Fall 2023.
 :::
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
-![](images/andreas_acanth.png)
+![](images/lydia_pyro.png)
 
-**Andreas Norlin** is joining the MICO lab as a PhD student in Fall 2023.
+**Lydia Ruggles** is joining the MICO lab as an M.Sc. student in Fall 2023.
 :::
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
-![](images/andreas_acanth.png)
+![](images/olivia_mangroves.png)
 
-**Andreas Norlin** is joining the MICO lab as a PhD student in Fall 2023.
+**Olivia Blondheim** is a PhD student in Dr. Chris Stallings' Fish Ecology Lab at USF CMS. She is collaborating with the MICO lab for her thesis research focusing on how the transition of oyster reefs to magroves due to climate change affects water quality in Tampa Bay. 
 :::
