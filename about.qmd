@@ -1,0 +1,27 @@
+---
+title: "People"
+---
+
+::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/Maggi_headhex.png)
+
+**Margaret (Maggi) Mars Brisbin** is the PI of the MICO lab.
+:::
+
+::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/andreas_acanth.png)
+
+**Andreas Norlin** is joining the MICO lab as a PhD student in Fall 2023.
+:::
+
+::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/andreas_acanth.png)
+
+**Andreas Norlin** is joining the MICO lab as a PhD student in Fall 2023.
+:::
+
+::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/andreas_acanth.png)
+
+**Andreas Norlin** is joining the MICO lab as a PhD student in Fall 2023.
+:::
