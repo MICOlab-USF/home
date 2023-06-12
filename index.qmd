@@ -15,4 +15,4 @@ The MICO lab is microbe agnostic and is generally intrigued by all interesting a
 
 ![](images/phytoplankton_hex.png){fig-align="center"}
 
-*Left: An acanatharian with* Phaeocystis antarctica *endosymbionts collected from the Southern Ocean on the Palmer LTER cruise and imaged with Prakash Lab custom microscopes; Center: A* Phaeocysts antarctica *colony speckled with bacteria that was imaged with the Imaging Flow Cytobot aboard the R/V Nathaniel B. Palmer in the Southern Ocean; Right:* Pyrodinium bahamense *cells collected in Old Tampa Bay and imaged with light microscopy by FWRI.*
+*Left: An acanatharian with* Phaeocystis antarctica *endosymbionts collected from the Southern Ocean on the Palmer LTER cruise and imaged with Prakash Lab custom microscopes; Center: A* Phaeocystis antarctica *colony speckled with bacteria that was imaged with the Imaging Flow Cytobot aboard the R/V Nathaniel B. Palmer in the Southern Ocean; Right:* Pyrodinium bahamense *cells collected in Old Tampa Bay and imaged with light microscopy by FWRI.*
