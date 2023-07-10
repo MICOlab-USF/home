@@ -1,0 +1,38 @@
+---
+title: "Publications"
+---
+
+**2022**
+
+- **M. Mars Brisbin**, S. Mitarai, M.A. Saito, H. Alexander. Microbiomes of bloom-forming *Phaeocystis* algae are stable and consistently recruited, with both symbiotic and opportunistic modes. *The ISME Journal*. **16** 9 2255-2264 (2022). [link](https://www.nature.com/articles/s41396-022-01263-2).
+
+- L.R. Aoki, **M. Mars Brisbin**, A.G. Hounshell, D.W. Kincaid, E.I. Larson, B.J. Sansom, A.J. Shogren, R.S. Smith, J. Sullivan-Stack. Preparing aquatic research for an extreme future: Call for improved definitions and responsive, multidisciplinary approaches. *BioScience*. **72** 6 508-520 (2022). [link](https://academic.oup.com/bioscience/article/72/6/508/6573842).
+
+**2021**
+
+-   C. Uwizeye\*, **M. Mars Brisbin**\*, B. Gallet, F. Chevalier, C. LeKieffre, N. L. Schieber, D. Falconet, D. Wangpraseurt, L. Schertel, H. Stryhanyuk, N. Musat, S. Mitarai, Y. Schwab, G. FInazzi, J. Decelle. Cytoklepty in the plankton: a host strategy to optimize the bioenergetic machinery of endosymbiotic algae. *Proc. Natl. Acad. Sci. U.S.A.* **109** 18000-18005 (2021). [link](https://www.pnas.org/doi/full/10.1073/pnas.2025252118).  *\ Equal contributions (co-first authors)
+
+**2020**
+
+- A. Ares\*, **M. Mars Brisbin**\*, K.N. Sato, J.P. Martín, Y. Iinuma, S. Mitarai.Extreme storms cause rapid but short‐lived shifts in nearshore subtropical bacterial communities
+*Environmental Microbiology*. **22** 11 4571-4588 (2020). [link](https://ami-journals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15178). *\ Equal contributions (co-first authors)
+
+- **M. Mars Brisbin**, A.E. Conover, S. Mitarai. Influence of regional oceanography and hydrothermal activity on protist diversity and community structure in the Okinawa Trough. *Microbial Ecology*. **80** 746-761 (2020). [link](https://link.springer.com/article/10.1007/s00248-020-01583-w).
+
+- **M. Mars Brisbin**, O.D. Brunner, M.M. Grossmann, S. Mitarai. Paired high‐throughput, in situ imaging and high‐throughput sequencing illuminate acantharian abundance and vertical distribution. *Limnology and Oceanography*. **65** 12 2953-2965 (2020). [link](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11567).
+
+- J. Arora, **M. Mars Brisbin**, A.S. Mikheyev. Effects of microbial evolution dominate those of experimental host-mediated indirect selection. *PeerJ*. **e9350** (2020). [link](https://peerj.com/articles/9350/).
+
+- D.W. Kincaid, W.S. Beck, J.E. Brandt, **M. Mars Brisbin**, K.J. Farrell, K.L. Hondula, E.I. Larson, A.J. Shogren. Wikipedia can help resolve information inequality in the aquatic sciences. *Limnology and Oceanography Letters*. **6** 18-23 (2020). [link](https://aslopubs.onlinelibrary.wiley.com/doi/pdf/10.1002/lol2.10168).
+
+**2019**
+
+- **M. Mars Brisbin**, S. Mitarai. Differential Gene Expression Supports a Resource‐Intensive, Defensive Role for Colony Production in the Bloom‐Forming Haptophyte, *Phaeocystis globosa*. *Journal of Eukaryotic Microbiology*. **66** 5 788-801 (2019). [link](https://onlinelibrary.wiley.com/doi/full/10.1111/jeu.12727).
+
+**2018**
+
+- **M. Mars Brisbin**, L.Y. Mesrop, M.M. Grossmann, S. Mitarai. Intra-host symbiont diversity and extended symbiont maintenance in photosymbiotic Acantharea (clade F). *Frontiers in Microbiology* **9** 1998 (2018). [link](https://www.frontiersin.org/articles/10.3389/fmicb.2018.01998/full).
+
+**2015**
+
+- **M. Mars Brisbin**, A.E. McElroy, E.P. Espinosa, B. Allam. Antimicrobial activity in the cuticle of the American lobster, *Homarus americanus*. *Fish & Shellfish Immunology*. **44** 2 542-546 (2015). [link](https://www.sciencedirect.com/science/article/abs/pii/S1050464815001084).
