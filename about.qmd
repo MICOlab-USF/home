@@ -27,5 +27,5 @@ title: "People"
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/olivia_mangroves.png)
 
-**Olivia Blondheim** is a PhD student in Dr. Chris Stallings' Fish Ecology Lab at USF CMS. She is collaborating with the MICO lab for her thesis research focusing on how the transition of oyster reefs to magroves due to climate change affects water quality in Tampa Bay. 
+**Olivia Blondheim** is a Ph.D. student in Dr. Chris Stallings' Fish Ecology Lab at USF CMS. She is collaborating with the MICO lab for her thesis research focusing on how the transition of oyster reefs to magroves due to climate change affects water quality in Tampa Bay. 
 :::

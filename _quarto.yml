@@ -10,7 +10,10 @@ website:
         text: About
       - href: about.qmd
         text: People
-
+      - href: Manual.qmd
+        text: Lab Manual
+  page-navigation: true
+  
 format:
   html:
     theme: sandstone
