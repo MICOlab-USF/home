@@ -13,9 +13,10 @@ title: "People"
 :::
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
-![](images/andreas_acanth.png)
+![](images/andreas.png)
 
-**Andreas Norlin** is joining the MICO lab as a Ph.D. student in Fall 2023.
+**Andreas Norlin** joined the MICO lab as a Ph.D. student in the Fall 2023. He is interested in studying mixotrophic protists and has a particular interest in studying various forms of symbiosis, especially between phototrophic and heterotrophic partners, a fascination arising from working with Radiolaria and the green variant of Noctiluca scintillans. After finishing his M.Sc. in Marine Biology from the University of Copenhagen, Denmark, he became increasingly more interested in the more mathematical approach to biology, through the use of mathematical and statistical models to learn about the interactions between organisms and the environment. Having multiple approaches, combining laboratory and field experiments with computer models and simulations, to solve the mysteries of the natural world continues to be a main driver for his work.<br />
+[![email](images/email.png)](mailto:anorlin@usf.com)
 :::
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
