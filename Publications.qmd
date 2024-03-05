@@ -8,7 +8,10 @@ title: "Publications"
 
 - Krinos, A. I., **Mars Brisbin, M.**, Hu, S. K., Cohen, N. R., Rynearson, T. A., Follows, M.J., Schulz, F., Alexander, H. Missing microbial eukaryotes and misleading meta-omic conclusions. *bioRxiv*. (2023). [link](https://doi.org/10.1101/2023.07.30.551153).
 
-- Rao, D., Fussy, Z., Moran, D. M., McIlvin, M. R., **Mars Brisbin, M.**, Allen, A. E., Follows, M. J., Saito, M. A. Flexible B~12~ ecophysiology of *Phaeocystis antarctica* due to a fusion B~12~-independent methionine synthase with widespread homologues. (2023).
+
+**2024**
+
+- Rao, D., Fussy, Z., **Mars Brisbin, M.**, McIlvin, M. R., Moran, D. M., Allen, A. E., Follows, M. J., Saito, M. A. Flexible B~12~ ecophysiology of *Phaeocystis antarctica* due to a fusion B~12~-independent methionine synthase with widespread homologues. *PNAS*. **121** 6 e2204075121 (2023). [link](https://doi.org/10.1073/pnas.2204075121)
 
 **2023**
 
