@@ -15,7 +15,7 @@ title: "Publications"
 
 **2024**
 
-- Rao, D., Fussy, Z., **Mars Brisbin, M.**, McIlvin, M. R., Moran, D. M., Allen, A. E., Follows, M. J., Saito, M. A. Flexible B~12~ ecophysiology of *Phaeocystis antarctica* due to a fusion B~12~-independent methionine synthase with widespread homologues. *PNAS*. **121** 6 e2204075121 (2023). [link](https://doi.org/10.1073/pnas.2204075121).
+- Rao, D., Fussy, Z., **Mars Brisbin, M.**, McIlvin, M. R., Moran, D. M., Allen, A. E., Follows, M. J., Saito, M. A. Flexible B~12~ ecophysiology of *Phaeocystis antarctica* due to a fusion B~12~-independent methionine synthase with widespread homologues. *PNAS*. **121** 6 e2204075121 (2024). [link](https://doi.org/10.1073/pnas.2204075121).
 
 **2023**
 
