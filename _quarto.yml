@@ -18,6 +18,8 @@ website:
         text: Lab Manual
       - href: Contact.qmd
         text: Contact
+      - href: Posts.qmd
+        text: Posts & News
   page-navigation: true
   
 format:
