@@ -2,23 +2,35 @@
 title: "Contact"
 ---
 
-**General inquiries can be made to:** 
+**General inquiries can be made to:**
 
 mmarsbrisbin (at) usf.com
 
-**Interested in joining the MICO lab?** 
+**Interested in joining the MICO lab?**
 
-Undergraduates at USF St. Pete: 
+Undergraduates at USF St. Pete:
 
-- Undergraduates seeking research experience can sign up for research credits with Prof. Brisbin to count toward their dgree completion. Contact Prof. Brisbin about available opportunities. 
+-   Undergraduates seeking research experience can sign up for research credits with Prof. Brisbin to count toward their dgree completion. Contact Prof. Brisbin about available opportunities.
 
 PhD opportunities:
 
-- [USF College of Marine Science Graduate program](https://www.usf.edu/marine-science/education/prospective-students/how-to-apply.aspx) | *apply by December 15*
-- [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/) | *Deadline: mid-October*
+-   [USF College of Marine Science Graduate program](https://www.usf.edu/marine-science/education/prospective-students/how-to-apply.aspx) \| *apply by December 15*
+-   [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/) \| *Deadline: mid-October*
 
-Postdoc opportunities: 
+Postdoc opportunities:
 
-- [NSF Ocean Sciences Postdoctoral Research Fellowships](https://www.nsf.gov/pubs/2021/nsf21538/nsf21538.htm) | *Deadline: mid-November*
-- [NSF Office of Polar Programs Postdoctoral Research Fellowships](https://new.nsf.gov/funding/opportunities/office-polar-programs-postdoctoral-research) | *Deadline: early February*
-- [Simons Foundation Postdoctoral Fellowship in Marine Microbial Ecology](https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/) | *Deadline: mid-May*
+-   [NSF Ocean Sciences Postdoctoral Research Fellowships](https://www.nsf.gov/pubs/2021/nsf21538/nsf21538.htm) \| *Deadline: mid-November*
+-   [NSF Office of Polar Programs Postdoctoral Research Fellowships](https://new.nsf.gov/funding/opportunities/office-polar-programs-postdoctoral-research) \| *Deadline: early February*
+-   [Simons Foundation Postdoctoral Fellowship in Marine Microbial Ecology](https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/) \| *Deadline: mid-May*
+
+----------
+
+Wondering why all the hexagons?
+
+1. We love R! 
+
+![](images/rstudio-stickers.jpg)
+
+2. We love St. Petersburg!
+
+![](images/stpete_hexagons.png)
