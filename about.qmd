@@ -7,7 +7,7 @@ title: "People"
 
 
 
-**Margaret (Maggi) Mars Brisbin** (she/her) is the PI of the MICO lab and an Assistant Professor at the University of South Florida College of Marine Science. Maggi completed her Ph.D. at the Okinawa Institute of Science and Technology (Japan), where she worked under Prof. Satoshi Mitarai to comprehensively characterize the symbiosis between acantharian protists and the Haptophyte phytoplankton *Phaeocystis*. Side projects and ongoing interests from Okinawa include investigating how typhoons and urbanization disturb coastal ecosystems. Recent research focuses on positive and negative interactions between *Phaeocystis* and their colony microbiomes, and the impact these interactions may have on bloom formation in different regions. Maggi is passionate about science communication, outreach, and building an inclusive and supportive lab.<br /> [![bluesky](images/Bluesky_Logo.png)](https://bsky.app/profile/margaretbrisbin.bsky.social) [![email](images/email.png)](mailto:mmarsbrisbin@usf.com) [![scholar](images/scholar.png)](https://scholar.google.com/citations?user=cx44qVMAAAAJ&hl=en&oi=ao)
+**Margaret (Maggi) Mars Brisbin** (she/her) is the PI of the MICOlab and an Assistant Professor at the University of South Florida's College of Marine Science. Maggi completed her Ph.D. at the Okinawa Institute of Science and Technology (Japan), where she worked under Prof. Satoshi Mitarai to comprehensively characterize the symbiosis between acantharian protists and the Haptophyte phytoplankton *Phaeocystis*. Side projects and ongoing interests from Okinawa include investigating how typhoons and urbanization disturb coastal ecosystems. Recent research focuses on positive and negative interactions between *Phaeocystis* and their colony microbiomes, and the impact these interactions may have on bloom formation in different regions. Maggi is passionate about science communication, outreach, and building an inclusive and supportive lab.<br /> [![bluesky](images/Bluesky_Logo.png)](https://bsky.app/profile/margaretbrisbin.bsky.social) [![email](images/email.png)](mailto:mmarsbrisbin@usf.com) [![scholar](images/scholar.png)](https://scholar.google.com/citations?user=cx44qVMAAAAJ&hl=en&oi=ao)
 
 
 :::
@@ -15,14 +15,14 @@ title: "People"
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/andreas.png)
 
-**Andreas Norlin** joined the MICO lab as a Ph.D. student in the Fall 2023. He is interested in studying mixotrophic protists and has a particular interest in studying various forms of symbiosis, especially between phototrophic and heterotrophic partners, a fascination arising from working with Radiolaria and the green variant of Noctiluca scintillans. After finishing his M.Sc. in Marine Biology from the University of Copenhagen, Denmark, he became increasingly more interested in the more mathematical approach to biology, through the use of mathematical and statistical models to learn about the interactions between organisms and the environment. Having multiple approaches, combining laboratory and field experiments with computer models and simulations, to solve the mysteries of the natural world continues to be a main driver for his work.<br />
+**Andreas Norlin** joined the MICOlab as a Ph.D. student in the Fall 2023. He is interested in studying mixotrophic protists and has a particular interest in studying various forms of symbiosis, especially between phototrophic and heterotrophic partners, a fascination arising from working with Radiolaria and the green variant of **Noctiluca scintillans**. After finishing his M.Sc. in Marine Biology from the University of Copenhagen, Denmark, he became increasingly interested in the more mathematical approach to biology, through the use of mathematical and statistical models to learn about the interactions between organisms and the environment. Combining laboratory and field experiments with computer models and simulations to solve the mysteries of the natural world continues to be a main driver for his work.<br />
 [![email](images/email.png)](mailto:anorlin@usf.com)
 :::
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/lydia.png)
 
-**Lydia Ruggles** joined the MICO lab as an M.Sc. student in the Fall of 2023. She is interested in understanding the relationship between the saxitoxin-producing species *Pyrodinium bahamense* and bacteria. This interest began through her work at the Florida Fish and Wildlife Research Institute in the Harmful Algal Bloom group, where she continues to assist with physiological and molecular research.<br />
+**Lydia Ruggles** joined the MICOlab as an M.Sc. student in the Fall of 2023. She is interested in understanding the relationship between the saxitoxin-producing species *Pyrodinium bahamense* and bacteria. This interest began through her work at the Florida Fish and Wildlife Research Institute in the Harmful Algal Bloom group, where she continues to assist with physiological and molecular research.<br />
 [![bluesky](images/Bluesky_Logo.png)](https://bsky.app/profile/lydiaruggles.bsky.social)
 [![email](images/email.png)](mailto:lruggles@usf.com)
 
@@ -31,7 +31,7 @@ title: "People"
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/lauren_headhex.png)
 
-**Lauren D'Amore** is a Junior Marine Biology major at USF St. Pete. She joined the MICO lab in the spring of 2024. Originally from Wisconsin, she moved down to Florida to pursue a degree in marine biology at USF. Her interests lie in understanding the functions of the microorganisms that play a vital role in the health of our ocean’s ecosystems. Lauren is currently assisting with onlgoing projects and is becoming an expert in molecular biology and phytoplankton culturing.<br />
+**Lauren D'Amore** is a Junior Marine Biology major at USF St. Pete. She joined the MICOlab in the spring of 2024. Originally from Wisconsin, she moved down to Florida to pursue a degree in marine biology at USF. Her interests lie in understanding the functions of the microorganisms that play a vital role in the health of our ocean’s ecosystems. Lauren is currently assisting with ongoing projects and is becoming an expert in molecular biology and phytoplankton culturing.<br />
 [![email](images/email.png)](mailto:damore24@usf.edu)
 
 :::
@@ -41,5 +41,18 @@ title: "People"
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/olivia_mangroves.png)
 
-**Olivia Blondheim** is a Ph.D. student in Dr. Chris Stallings' Fish Ecology Lab at USF CMS. She is collaborating with the MICO lab for her thesis research focusing on how the transition of oyster reefs to magroves due to climate change affects water quality in Tampa Bay. She is particularly interested in how oysters in different habitats filter harmful algal bloom species. 
+**Olivia Blondheim** is a Ph.D. student in Dr. Chris Stallings' Fish Ecology Lab at USF CMS. She is collaborating with the MICOlab for her thesis research focusing on how the transition of oyster reefs to magroves due to climate change affects water quality in Tampa Bay. She is particularly interested in how oysters in different habitats filter harmful algal bloom species. 
+:::
+
+
+::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/Gnasher_Chan.png)
+
+**Gnasher Brisbin** is a 13-year-old Australian Cattle Dog (Red Heeler) who is deeply interested in reef fish and sea cucumbers. He is currently studying the effect of loud noises (barking) on prey fish behavior. In his spare time, he enjoys sun bathing, walking, sleeping, and eating. He is the number one supporter of MICOlab publications being written.
+:::
+
+::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/Ruby_hex.png)
+
+**Ruby Brisbin** is a mini American Shepherd (a.k.a. mini Aussie) puppy and recent addition to the MICOlab. She is still developing her academic interests, but is leaning towards terrestrial ecology as she is especially interested in tha activity of native and invasive anoles in Florida. In her free time, she enjoys sailing, walking, running, jumping, and Frisbee. 
 :::
