@@ -25,12 +25,13 @@ Postdoc opportunities:
 
 ----------
 
-Wondering why all the hexagons?
+**Wondering why all the hexagons?**
 
 1. We love R! 
 
 ![](images/rstudio-stickers.jpg)
 
-2. We love St. Petersburg!
+2. We love St. Petersburg (the home of USF CMS in Pinellas County, Florida)!
 
 ![](images/stpete_hexagons.png)
+Sidewalks in historic neighborhoods throughout St. Pete are made from tesalating hexagon cement paving stones. As a result, the hexagon is widely used to symbolize St. Pete and is the logo of [Preserve the Burg](https://www.preservetheburg.org/about), St. Pete's historical preservation society. 
