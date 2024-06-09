@@ -56,3 +56,12 @@ title: "People"
 
 **Ruby Brisbin** is a mini American Shepherd (a.k.a. mini Aussie) puppy and recent addition to the MICOlab. She is still developing her academic interests, but is leaning towards terrestrial ecology as she is especially interested in the activity of native and invasive anoles in Florida. In her free time, she enjoys sailing, walking, running, jumping, and Frisbee. 
 :::
+
+-------------
+
+
+::: {fig-align="center"}
+![](images/2024_labBBQ.jpeg)
+
+**2024 End of the Year BBQ.** *Clockwise from top left: Lauren, Abbey, Lydia, Maggi, Andreas, Gnasher.*
+:::
