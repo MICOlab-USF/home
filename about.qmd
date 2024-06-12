@@ -39,9 +39,9 @@ title: "People"
 
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
-![](images/olivia_mangroves.png)
+![](images/Olivia_Hex.jpg) 
 
-**Olivia Blondheim** is a Ph.D. student in Dr. Chris Stallings' Fish Ecology Lab at USF CMS. She is collaborating with the MICOlab for her thesis research focusing on how the transition of oyster reefs to magroves due to climate change affects water quality in Tampa Bay. She is particularly interested in how oysters in different habitats filter harmful algal bloom species. 
+**Olivia Blondheim** is a Ph.D. student in Dr. Chris Stallings’ Fish Ecology Lab at the USF CMS. She is collaborating with the MICOlab for her dissertation research focusing on the water filtration services of the eastern oyster in Tampa Bay. She is particularly interested in measuring the water filtration rates of oysters on both natural (i.e., oyster reefs) and artificial (i.e., mangrove prop roots, vertical oyster gardens) substrates. She is also experimentally evaluating whether oysters can diminish the severity of harmful algal blooms in warming ocean conditions. When Olivia is not in the lab or the field, you can usually find her assembling vertical oyster gardens with the community at outreach events, advocating for sustainable aquaculture in D.C., or photographing wildlife at one of her favorite local parks.
 :::
 
 
@@ -57,8 +57,13 @@ title: "People"
 **Ruby Brisbin** is a mini American Shepherd (a.k.a. mini Aussie) puppy and recent addition to the MICOlab. She is still developing her academic interests, but is leaning towards terrestrial ecology as she is especially interested in the activity of native and invasive anoles in Florida. In her free time, she enjoys sailing, walking, running, jumping, and Frisbee. 
 :::
 
+<br />
+<br />
+
 -------------
 
+<br />
+<br />
 
 ::: {fig-align="center"}
 ![](images/2024_labBBQ.jpeg)
