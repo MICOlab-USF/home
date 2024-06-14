@@ -17,6 +17,20 @@ Okinawa Island, Japan, is beautiful through and through. Still, its beauty has t
 
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/skype_sci.png)
+
+**May 22 - Here's to the future scientists! MICOlab zooms with second graders ** <br /> 
+Connecting with future scientists is a common passion among MICOlab members. As the school year was coming to an end, the second grade students at Pine Island Academy in Jacksonville, FL, took some time out to meet with us over zoom and ask us all their questions about being scientists and doing science. Led by Lydia, we prepared a presentation of photos to illustrate what a day in the life of a marine scientist might entail, including lab work, coastal field work, and oceanographic research cruises. The students already studied oceanic zones and animals, such as the twilight zone and the benthos, so they were well prepared to ask us questions about research, becoming a scientist, and sharks. There were a lot of questions about sharks—What is the oldest shark in the ocean?, How do you catch sharks?, How do you know where to find sharks?, and more. There were also some fabulous questions about doing science like: What is your favorite part of your day? and, Do you have a secret lab? We were all impressed with the depth and breadth of the students’ knowledge and thoroughly enjoyed interacting with them. We are already looking forward to meeting with more classes next year. **Click [here](20240522_Skype.qmd) to read Lydia’s post about this outreach activity and see photos.** 
+
+<br />
+
+
+:::
+
+
+
+
+::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/olivia_sciencefest.png)
 
 **Feb. 10 - MICOlab puts plankton in the spotlight at St. Petersburg Science Festival! ** <br /> 
