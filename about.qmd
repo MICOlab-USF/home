@@ -13,6 +13,12 @@ title: "People"
 :::
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/Amanda_Hex.png) 
+
+**Amanda Muni-Morgan** is a Postdoctoral Research Scientist who joined the MICOlab in November of 2024. She began her scientific career managing the Red Tide Institute at Mote Marine Laboratory under the guidance of Dr. Cynthia Heil. There, she developed a passion for water quality and harmful algae and later completed her Ph.D. at the University of Florida under the guidance of Dr. Mary Lusk. Her research investigated how dissolved organic matter (DOM) compounds originating from urban environs (i.e., stormwater runoff, atmospheric deposition, wastewater) influence the growth of the toxic dinoflagellate species *Karenia brevis* and *Pyrodinium bahamense*. Her current research aims to constrain how DOM composition changes across the land-ocean continuum in response to human activities or environmental stressors (i.e., pollution, climate change), and how those changes influence water quality. This work is driven by the hypothesis that urban land-use alters the flux and composition of DOM, and elucidating receiving water impacts can guide best management practices.
+:::
+
+::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Olivia_Hex.jpg) 
 
 **Olivia Blondheim** transferred to the MICOlab in Fall 2024 to complete her dissertation research. Her project focuses on the water filtration services of the eastern oyster in Tampa Bay. She is measuring the water filtration rates of oysters on both natural (i.e., oyster reefs) and artificial (i.e., mangrove prop roots, vertical oyster gardens) substrates. She is also experimentally evaluating whether oysters can diminish the severity of harmful algal blooms in warming ocean conditions. When Olivia is not in the lab or the field, you can usually find her assembling vertical oyster gardens with the community at outreach events, advocating for sustainable aquaculture in D.C., or photographing wildlife at one of her favorite local parks.
