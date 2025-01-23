@@ -13,9 +13,15 @@ title: "People"
 :::
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/Olivia_Hex.jpg) 
+
+**Olivia Blondheim** transferred to the MICOlab in Fall 2024 to complete her dissertation research. Her project focuses on the water filtration services of the eastern oyster in Tampa Bay. She is measuring the water filtration rates of oysters on both natural (i.e., oyster reefs) and artificial (i.e., mangrove prop roots, vertical oyster gardens) substrates. She is also experimentally evaluating whether oysters can diminish the severity of harmful algal blooms in warming ocean conditions. When Olivia is not in the lab or the field, you can usually find her assembling vertical oyster gardens with the community at outreach events, advocating for sustainable aquaculture in D.C., or photographing wildlife at one of her favorite local parks.
+:::
+
+::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/andreas.png)
 
-**Andreas Norlin** joined the MICOlab as a Ph.D. student in the Fall 2023. He is interested in studying mixotrophic protists and has a particular interest in studying various forms of symbiosis, especially between phototrophic and heterotrophic partners, a fascination arising from working with Radiolaria and the green variant of *Noctiluca scintillans*. After finishing his M.Sc. in Marine Biology from the University of Copenhagen, Denmark, he became increasingly interested in the more mathematical approach to biology, through the use of mathematical and statistical models to learn about the interactions between organisms and the environment. Combining laboratory and field experiments with computer models and simulations to solve the mysteries of the natural world continues to be a main driver for his work.<br />
+**Andreas Norlin** joined the MICOlab as a Ph.D. student in the Fall 2023. He is interested in studying mixotrophic protists and has a particular interest in studying various forms of symbiosis, especially between phototrophic and heterotrophic partners, a fascination arising from working with Radiolaria and the green variant of *Noctiluca scintillans*. After finishing his M.Sc. in Marine Biology from the University of Copenhagen, Denmark, he became increasingly interested in a more mathematical approach to biology, through the use of mathematical and statistical models to learn about the interactions between organisms and the environment. Combining laboratory and field experiments with computer models and simulations to solve the mysteries of the natural world continues to be a main driver for his work.<br />
 [![email](images/email.png)](mailto:anorlin@usf.com)
 :::
 
@@ -31,18 +37,11 @@ title: "People"
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/lauren_headhex.png)
 
-**Lauren D'Amore** is a Junior Marine Biology major at USF St. Pete. She joined the MICOlab in the spring of 2024. Originally from Wisconsin, she moved down to Florida to pursue a degree in marine biology at USF. Her interests lie in understanding the functions of the microorganisms that play a vital role in the health of our ocean’s ecosystems. Lauren is currently assisting with ongoing projects and is becoming an expert in molecular biology and phytoplankton culturing.<br />
+**Lauren D'Amore** is a Senior Marine Biology major at USF St. Pete. She joined the MICOlab in the spring of 2024. Originally from Wisconsin, she moved down to Florida to pursue a degree in marine biology at USF. Her interests lie in understanding the functions of the microorganisms that play a vital role in the health of our ocean’s ecosystems. Lauren is currently assisting with ongoing projects and is becoming an expert in molecular biology, phytoplankton culturing, and flow cytometry.<br />
 [![email](images/email.png)](mailto:damore24@usf.edu)
 
 :::
 
-
-
-::: {layout="[10,-2,30]" layout-valign="center"}
-![](images/Olivia_Hex.jpg) 
-
-**Olivia Blondheim** is a Ph.D. student in Dr. Chris Stallings’ Fish Ecology Lab at the USF CMS. She is collaborating with the MICOlab for her dissertation research focusing on the water filtration services of the eastern oyster in Tampa Bay. She is particularly interested in measuring the water filtration rates of oysters on both natural (i.e., oyster reefs) and artificial (i.e., mangrove prop roots, vertical oyster gardens) substrates. She is also experimentally evaluating whether oysters can diminish the severity of harmful algal blooms in warming ocean conditions. When Olivia is not in the lab or the field, you can usually find her assembling vertical oyster gardens with the community at outreach events, advocating for sustainable aquaculture in D.C., or photographing wildlife at one of her favorite local parks.
-:::
 
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
@@ -70,3 +69,17 @@ title: "People"
 
 **2024 End of the Year BBQ.** *Clockwise from top left: Lauren, Abbey, Lydia, Maggi, Andreas, Gnasher.*
 :::
+
+
+::: {fig-align="center"}
+![](images/2024_halloween.jpeg)
+
+**2024 Halloween Party.** *From left: Elf (Olivia), Farmer (Lydia), Tennis Pro (Andreas), Jurassic Park's Dr. Ellie Sattler (Lauren), Black Swan (Maggi).*
+:::
+
+::: {fig-align="center"}
+![](images/2024_vogs.jpeg)
+
+**2024 VOGs and Egg Nog outreach event planned and executed by Olivia.** *From left: Andreas, Olivia, Maggi, Lauren.*
+:::
+
