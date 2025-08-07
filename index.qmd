@@ -24,6 +24,47 @@ The MICO lab is microbe agnostic and is generally intrigued by all interesting a
 
 **News & Posts**
 
+*2025* 
+
+::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/Maggi_WaterQuality.png)
+
+**\[NEWS\] March 6 Tampa Bay Times’ Spotlight on Water Quality ** <br /> 
+Maggi joined water quality experts from around the bay for a community conversation about the state and future of Tampa Bay’s water quality, moderated by the Tampa Bay Times. Other panelists included: Ed Sherwood, the executive director of the Tampa Bay Estuary Program; Peter Clark, president and founder of Tampa Bay Watch; Santino Provenzano, the senior environmental director at The Mosaic Co.; and Warren Hogg, the chief science officer at Tampa Bay Watch. The conversation covered topics ranging from threats to Old Tampa Bay, including harmful algal blooms and seagrass loss, to how Tampa Bay area residents will acquire clean drinking water in the future. Some key takeaways: sustainable development and restoring natural shorelines will be key to ensuring the future health of the bay and getting outside and enjoying the bay is key to appreciating it and protecting it. Read more about the event and ensuing discussion in the Tampa Bay Times write-up here: [https://www.tampabay.com/news/environment/2025/03/07/5-takeaways-spotlight-tampa-bays-discussion-water-quality/]( https://www.tampabay.com/news/environment/2025/03/07/5-takeaways-spotlight-tampa-bays-discussion-water-quality/) 
+<br />
+:::
+
+
+
+::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/Lauren_Cruise.png)
+
+**\[NEWS\] Feb 24–26 - Red Tide Response Cruise ** <br /> 
+Maggi, Amanda, and Lauren headed out to sea with researchers from the Florida Fish and Wildlife Conservation Commission Research Institute for a short research cruise aimed at sampling a large *Karenia brevis* bloom. Before the cruise, aerial photographs and satellite measurements detected a massive red tide / *K. brevis* bloom offshore, and dead fish were washing up on beaches. The FWC organized an event response cruise to confirm the presence and abundance of *K. brevis* and measure additional parameters to help understand how and why such a massive bloom had developed. Just before we set sail, however, a large cold front passed through the region and the bloom dissipated. We sampled regions that still had some *K. brevis* present, which could help us understand what causes a bloom to end, whereas researchers are often more focused on what causes a bloom to start. We were also able to reoccupy stations that we sampled in the Hurricane Milton response cruises to gain additional insight into how resilient the Gulf Coast is to hurricane impacts. This cruise was Lauren’s very first research cruise, and she learned that she is an excellent seagoing scientist! When more seasoned researchers were unable to work due to sea sickness, Lauren stepped in and took on extra work: one more data point suggesting Lauren is going to have a successful career in marine science after graduating. Eric from FWC won the Ice Cream Competition by eating the most ice cream snacks during our 72-hour cruise (8!). Maggi was close behind with 6, and Lauren came in third place with 3.
+
+<br />
+:::
+
+
+::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/SciFest2025.png)
+
+**\[NEWS\] Feb. 7–8 - St. Pete Science Fest ** <br /> 
+The MICOlab participated in the St. Pete Science Festival for a second year, and this time we participated in both the school day and the community day! On Friday, Lydia, Olivia, and Andreas taught groups from St. Pete schools about phytoplankton in Tampa Bay. Students learned about the characteristics that make phytoplankton unique and then invented and illustrated their own plankton species. On Saturday’s community day, we shared live *Pyrodiniuim bahamense* cells viewed through our microscope, a virtual reality experience diving through the plankton, and an interactive augmented reality activity looking at all types of plankton. We had great conversations with St. Pete residents about the microbes (good & bad!) living in Tampa Bay and the Gulf. We can’t wait to participate again next year!
+
+<br />
+:::
+
+::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/Art_and_Science.png)
+
+**\[NEWS\] January 23 - Art & Science Exhibit** <br /> 
+Maggi presented plankton block prints at the USF CMS Art & Science Exhibit, the culminating event of sustained interaction between artists and scientists (https://www.usf.edu/marine-science/news/2025/a-journey-through-art-and-science-night-at-cms.aspx). Maggi and Andreas shared plankton forms as art with artistically inclined and scientifically curious participants in December. We brought the ever charismatic *Pyrodinium bahamense* to the event, where guests could watch the “Pyro”, as we affectionately call them, dance under the microscope. To complement the microscopy, Maggi brought plankton printing blocks so that guests could create their own plankton block prints. The goal was to both share our science and to inspire ocean-themed artistic ventures. At the final exhibit in January, artists displayed their works, including paintings, photography, poems, children’s books, and performances.
+
+<br />
+:::
+
+
 *2024*
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
