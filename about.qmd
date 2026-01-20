@@ -7,7 +7,7 @@ title: "People"
 
 
 
-**Margaret (Maggi) Mars Brisbin** (she/her) is the PI of the MICOlab and an Assistant Professor at the University of South Florida's College of Marine Science. Maggi completed her Ph.D. at the Okinawa Institute of Science and Technology (Japan), where she worked under Prof. Satoshi Mitarai to comprehensively characterize the symbiosis between acantharian protists and the Haptophyte phytoplankton *Phaeocystis*. Side projects and ongoing interests from Okinawa include investigating how typhoons and urbanization disturb coastal ecosystems. Recent research focuses on positive and negative interactions between *Phaeocystis* and their colony microbiomes, and the impact these interactions may have on bloom formation in different regions. Maggi is passionate about science communication, outreach, and building an inclusive and supportive lab.<br /> [![bluesky](images/Bluesky_Logo.png)](https://bsky.app/profile/margaretbrisbin.bsky.social) [![email](images/email.png)](mailto:mmarsbrisbin@usf.com) [![scholar](images/scholar.png)](https://scholar.google.com/citations?user=cx44qVMAAAAJ&hl=en&oi=ao)
+**Margaret (Maggi) Mars Brisbin** (she/her) is the PI of the MICOlab and an Assistant Professor at the University of South Florida's College of Marine Science. Maggi completed her Ph.D. at the Okinawa Institute of Science and Technology (Japan), where she worked under Prof. Satoshi Mitarai to comprehensively characterize the symbiosis between acantharian protists and the Haptophyte phytoplankton *Phaeocystis*. Side projects and ongoing interests from Okinawa include investigating how extreme storms and urbanization dimpact microbes in coastal ecosystems. Recent research focuses on positive and negative interactions between *Phaeocystis* and their colony microbiomes, and the impact these interactions may have on bloom formation in different regions. Maggi is passionate about science communication, outreach, and building an inclusive and supportive lab.<br /> [![bluesky](images/Bluesky_Logo.png)](https://bsky.app/profile/margaretbrisbin.bsky.social) [![email](images/email.png)](mailto:mmarsbrisbin@usf.com) [![scholar](images/scholar.png)](https://scholar.google.com/citations?user=cx44qVMAAAAJ&hl=en&oi=ao)
 
 
 :::
@@ -19,28 +19,28 @@ title: "People"
 **Olivia Blondheim** transferred to the MICOlab in Fall 2024 to complete her dissertation research. Her project focuses on the water filtration services of the eastern oyster in Tampa Bay. She is measuring the water filtration rates of oysters on both natural (i.e., oyster reefs) and artificial (i.e., mangrove prop roots, vertical oyster gardens) substrates. She is also experimentally evaluating whether oysters can diminish the severity of harmful algal blooms in warming ocean conditions. When Olivia is not in the lab or the field, you can usually find her assembling vertical oyster gardens with the community at outreach events, advocating for sustainable aquaculture in D.C., or photographing wildlife at one of her favorite local parks.
 :::
 
-::: {layout="[10,-2,30]" layout-valign="center"}
-![](images/lydia.png)
-
-**Lydia Ruggles** joined the MICOlab as an M.Sc. student in the Fall of 2023. She is interested in understanding the relationship between the saxitoxin-producing species *Pyrodinium bahamense* and bacteria. This interest began through her work at the Florida Fish and Wildlife Research Institute in the Harmful Algal Bloom group, where she continues to assist with physiological and molecular research.<br />
-[![bluesky](images/Bluesky_Logo.png)](https://bsky.app/profile/lydiaruggles.bsky.social)
-[![email](images/email.png)](mailto:lruggles@usf.com)
-
-:::
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Lilianna.png)
 
 **Lilianna Giuffrida** joined the MICO lab as an M.Sc. student in the Fall of 2025. She is interested in how the dinoflagellate species *Pyrodinium bahamense* obtains vitamins in the waters of Old Tampa Bay. She is currently working on a project to identify the main source of vitamin B12 for *P. bahamense*. While also assisting with other ongoing projects, she is becoming well versed in microbiology and working with phytoplankton cultures. Lilianna loves the Florida manatees and wants to keep their habitat healthy - so it is important to monitor the microalgae that they share a home with! She is passionate about sustainability and conservation, and aims to pursue a career in algal biotechnology.<br />
-
+[![email](images/email.png)](mailto:giuffrida31@usf.edu)
 :::
 
+
+::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/Martin.png)
+
+**Martin Achard** joined the MICOlab in Fall 2025 during his final year as an undergraduate. He is broadly interested in marine microbiomes and the roles they play in shaping ecosystem function, resilience, and environmental health. Within the lab, Martin enjoys contributing to a wide range of projects and is particularly enthusiastic about exploring how microbial interactions influence coastal and marine systems. He plans to pursue a Ph.D. in marine microbiology, aiming to study how microbiome structure and function influence marine ecosystem dynamics.
+<br />
+
+:::
 
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Gnasher_Chan.png)
 
-**Gnasher Brisbin** is a 13-year-old Australian Cattle Dog (Red Heeler) who is deeply interested in reef fish and sea cucumbers. He is currently studying the effect of loud noises (barking) on prey fish behavior. In his spare time, he enjoys sun bathing, walking, sleeping, and eating. He is the number one supporter of MICOlab publications being written.
+**Gnasher Brisbin** is a 14-year-old Australian Cattle Dog (Red Heeler) who is deeply interested in reef fish and sea cucumbers. He is currently studying the effect of loud noises (barking) on prey fish behavior. In his spare time, he enjoys sun bathing, walking, sleeping, and eating. He is the number one supporter of MICOlab publications being written.
 :::
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
@@ -72,26 +72,43 @@ title: "People"
 ::: {fig-align="center"}
 ![](images/2024_labBBQ.jpeg){width=4in}
 
-**2024 End of the Year BBQ.** *Clockwise from top left: Lauren, Abbey, Lydia, Maggi, Andreas, Gnasher.*
+**2024 - End of the Year BBQ.** *Clockwise from top left: Lauren, Abbey, Lydia, Maggi, Andreas, Gnasher.*
 :::
 
 
 ::: {fig-align="center"}
 ![](images/2024_halloween.jpeg){width=4in}
 
-**2024 Halloween Party.** *From left: Elf (Olivia), Farmer (Lydia), Tennis Pro (Andreas), Jurassic Park's Dr. Ellie Sattler (Lauren), Black Swan (Maggi).*
+**2024 - Halloween Party.** *From left: Elf (Olivia), Farmer (Lydia), Tennis Pro (Andreas), Jurassic Park's Dr. Ellie Sattler (Lauren), Black Swan (Maggi).*
 :::
 
 ::: {fig-align="center"}
 ![](images/2024_vogs.jpeg){width=4in}
 
-**2024 VOGs and Egg Nog outreach event planned and executed by Olivia.** *From left: Andreas, Olivia, Maggi, Lauren.*
+**2024 - VOGs and Egg Nog outreach event planned and executed by Olivia.** *From left: Andreas, Olivia, Maggi, Lauren.*
 :::
 
 
 ::: {fig-align="center"}
 ![](images/ASLO_GroupShot.jpeg){width=4in}
 
-**2025 MICOlab at the ASLO Aquatic Sciences Meeting in Charlotte, North Carolina, March 26–31.** *From left: Maggi, Lydia, Lauren.*
+**2025 - MICOlab at the ASLO Aquatic Sciences Meeting in Charlotte, North Carolina, March 26–31.** *From left: Maggi, Lydia, Lauren.*
 :::
 
+::: {fig-align="center"}
+![](images/Lydia_Defense_Dinner.png){width=4in}
+
+**2025 - MICOlab celebrating Lydia's successful master's thesis defense with dinner at Pia's.** *From left: Olivia, Lauren, Maggi, Lydia, Lilianna.*
+:::
+
+::: {fig-align="center"}
+![](images/SEPC.jpg){width=4in}
+
+**2025 - MICOlab with friends and collaborators Hannah Reich and lab (SUNY ESF) at the South East Phycological Colloquy (SEPC) hosted at the VIMS Eastern Shore Lab.** *From left: Lilianna, Hannah, Maggi, Genevieve, Stephan. *
+:::
+
+::: {fig-align="center"}
+![](images/Halloween.jpeg){width=4in}
+
+**2025 - MICOlab painting neon bacteria artworks for Halloween lab meeting.** *From left: Lilianna, Olivia, Martin. *
+:::
