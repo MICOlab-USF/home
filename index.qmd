@@ -56,7 +56,6 @@ Maggi joined the Seibel lab and researchers from URI and the University of Arizo
 <br />
 :::
 
-
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Lydia_graduation.png)
 
@@ -75,8 +74,6 @@ Maggi and Lilianna travelled to the eastern shore of Virginia together to presen
 <br />
 :::
 
-
-
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/lydia_ThesisHAT.png)
 
@@ -91,16 +88,15 @@ Lydia presented her thesis results to the public and successfully defended her t
 
 **\[NEWS\] July 28–August 1 - Maggi is awarded the PSA Norma J. Lang Early Career Fellowship at the Phycological Society of America's meeting in San Juan, Puerto Rico ** <br /> 
 The [Norma J. Lang Early Career Fellowship](https://www.psaalgae.org/norma-j-lang-fellowships) is awarded annually by PSA to provide seed money for larger grants in the future and to kickstart the careers of scientists early in their faculty appointment. Lang Fellows serve the society for their three year appointment by serving on committees, attending the annual meeting, and evaluating applications for future Lang fellowships. PSA is an exceptional scientific society that fosters community and scientific exchange while also supporting students and early career scientists. It is an incredible honor to have received the Lang fellowship this year! Maggi also gave a research presentation at the meeting and traveled to Vieqes with the [Reich Lab @ ESF](https://phycosymbiosis.weebly.com/publications.html) following the meeting to learn more about *Pyrodinium bahamense* in Puerto Rico. 
+
 <br />
 :::
-
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Lilianna.png)
 
 **\[NEWS\] July 1 - Lilianna Giuffrida joins MICOlab ** <br /> 
 Lilianna joined the MICOlab in July in advance of starting her M.S. degree at CMS in the fall. Lilianna graduated from Coastal Carolina University and developed a strong interest in algal research there through her senior thesis and other research experiences. This summer, Lilianna is getting a headstart on her thesis project investigating the vitamin sources to Tampa Bay and their impact on phytoplankton communities. She is also assisting in the REU project investigating the effects of different environmental variables on *P. bahamense* growth and toxin production. We are so excited to have Lilianna working with us this summer and beyond. Welcome, Lilianna!! 
-
 
 <br />
 :::
@@ -133,7 +129,6 @@ Databases are integral to analyzing any ‘omics data. A peptide, a transcript, 
 <br />
 :::
 
-
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Olivia_Hex.jpg)
 
@@ -143,7 +138,6 @@ Huge congratulations to Olivia, who officially became a Ph.D. candidate on April
 <br />
 :::
 
-
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/ASLO2025_Lydia.png)
 
@@ -152,7 +146,6 @@ Lydia successfully presented her thesis proposal to her thesis committee: [Mya B
 
 <br />
 :::
-
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/ASLO25_Lauren.png)
@@ -168,10 +161,9 @@ Lauren, Lydia, and Maggi presented MICOlab research at the 2025 ASLO Aquatic Sci
 
 **\[NEWS\] March 6 - Tampa Bay Times’ Spotlight on Water Quality ** <br /> 
 Maggi joined water quality experts from around the bay for a community conversation about the state and future of Tampa Bay’s water quality, moderated by the Tampa Bay Times. Other panelists included: Ed Sherwood, the executive director of the Tampa Bay Estuary Program; Peter Clark, president and founder of Tampa Bay Watch; Santino Provenzano, the senior environmental director at The Mosaic Co.; and Warren Hogg, the chief science officer at Tampa Bay Watch. The conversation covered topics ranging from threats to Old Tampa Bay, including harmful algal blooms and seagrass loss, to how Tampa Bay area residents will acquire clean drinking water in the future. Some key takeaways: sustainable development and restoring natural shorelines will be key to ensuring the future health of the bay and getting outside and enjoying the bay is key to appreciating it and protecting it. Read more about the event and ensuing discussion in the Tampa Bay Times write-up here: [https://www.tampabay.com/news/environment/2025/03/07/5-takeaways-spotlight-tampa-bays-discussion-water-quality/]( https://www.tampabay.com/news/environment/2025/03/07/5-takeaways-spotlight-tampa-bays-discussion-water-quality/) 
+
 <br />
 :::
-
-
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Lauren_Cruise.png)
@@ -212,8 +204,6 @@ Maggi, Andreas, and USF students Lilly Verrill ([Institute for Marine Sensing](h
 
 <br />
 :::
-
-
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/MiltonCruise1.png)

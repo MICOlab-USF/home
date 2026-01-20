@@ -28,10 +28,8 @@ The manuscript version of Lydia's thesis has been submitted for peer-review and 
 
 **\[NEWS\] December 17–29 Maggi participates in a research cruise aboard the R/V Sally Ride in the Gulf of California ** <br /> 
 Maggi joined the Seibel lab and researchers from URI and the University of Arizona on a cruise aboard the R/V Sally Ride in the Gulf of California studying oxygen minimum zones, zooplankton, and vertical migrators. Maggi served as a scientific diver, hand collecting zooplankton for Seibel lab respirometry experiments to determine metabolic rates. As a bonus, she also hand-collected giant acantharians and measured their net primary production through oxygen production. The giant acantharians were also stored in RNA/DNA shield for later genetic studies of both the acantharians and their symbionts.  
-
 <br />
 :::
-
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Lydia_graduation.png)
@@ -51,8 +49,6 @@ Maggi and Lilianna travelled to the eastern shore of Virginia together to presen
 <br />
 :::
 
-
-
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/lydia_ThesisHAT.png)
 
@@ -67,16 +63,15 @@ Lydia presented her thesis results to the public and successfully defended her t
 
 **\[NEWS\] July 28–August 1 - Maggi is awarded the PSA Norma J. Lang Early Career Fellowship at the Phycological Society of America's meeting in San Juan, Puerto Rico ** <br /> 
 The [Norma J. Lang Early Career Fellowship](https://www.psaalgae.org/norma-j-lang-fellowships) is awarded annually by PSA to provide seed money for larger grants in the future and to kickstart the careers of scientists early in their faculty appointment. Lang Fellows serve the society for their three year appointment by serving on committees, attending the annual meeting, and evaluating applications for future Lang fellowships. PSA is an exceptional scientific society that fosters community and scientific exchange while also supporting students and early career scientists. It is an incredible honor to have received the Lang fellowship this year! Maggi also gave a research presentation at the meeting and traveled to Vieqes with the [Reich Lab @ ESF](https://phycosymbiosis.weebly.com/publications.html) following the meeting to learn more about *Pyrodinium bahamense* in Puerto Rico. 
+
 <br />
 :::
-
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Lilianna.png)
 
 **\[NEWS\] July 1 - Lilianna Giuffrida joins MICOlab ** <br /> 
 Lilianna joined the MICOlab in July in advance of starting her M.S. degree at CMS in the fall. Lilianna graduated from Coastal Carolina University and developed a strong interest in algal research there through her senior thesis and other research experiences. This summer, Lilianna is getting a headstart on her thesis project investigating the vitamin sources to Tampa Bay and their impact on phytoplankton communities. She is also assisting in the REU project investigating the effects of different environmental variables on *P. bahamense* growth and toxin production. We are so excited to have Lilianna working with us this summer and beyond. Welcome, Lilianna!! 
-
 
 <br />
 :::
@@ -99,8 +94,6 @@ Bacteria inhabit phytoplankton phycoshperes—the area around the phytoplankton 
 <br />
 :::
 
-
-
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Proteomics.png)
 
@@ -111,7 +104,6 @@ Databases are integral to analyzing any ‘omics data. A peptide, a transcript, 
 <br />
 :::
 
-
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Olivia_Hex.jpg)
 
@@ -120,7 +112,6 @@ Huge congratulations to Olivia, who officially became a Ph.D. candidate on April
 
 <br />
 :::
-
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/ASLO2025_Lydia.png)
@@ -131,7 +122,6 @@ Lydia successfully presented her thesis proposal to her thesis committee: [Mya B
 <br />
 :::
 
-
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/ASLO25_Lauren.png)
 
@@ -140,7 +130,6 @@ Lauren, Lydia, and Maggi presented MICOlab research at the 2025 ASLO Aquatic Sci
 
 <br />
 :::
-
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Maggi_WaterQuality.png)
@@ -159,7 +148,6 @@ Maggi, Amanda, and Lauren headed out to sea with researchers from the Florida Fi
 
 <br />
 :::
-
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/SciFest2025.png)
@@ -190,8 +178,6 @@ Maggi, Andreas, and USF students Lilly Verrill ([Institute for Marine Sensing](h
 <br />
 :::
 
-
-
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/MiltonCruise1.png)
 
@@ -210,7 +196,6 @@ Maggi and Andreas attended the OCB sponsored MetaEukomics Hackathon at UGA’s S
 <br />
 :::
 
-
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Dia_Poster.png)
 
@@ -226,7 +211,6 @@ Maggi and Andreas attended the OCB sponsored MetaEukomics Hackathon at UGA’s S
 
 <br />
 :::
-
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Oki_samplesites.png)

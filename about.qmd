@@ -70,27 +70,27 @@ title: "People"
 *Group Photos*
 
 ::: {fig-align="center"}
-![](images/2024_labBBQ.jpeg)
+![](images/2024_labBBQ.jpeg){width=4in}
 
 **2024 End of the Year BBQ.** *Clockwise from top left: Lauren, Abbey, Lydia, Maggi, Andreas, Gnasher.*
 :::
 
 
 ::: {fig-align="center"}
-![](images/2024_halloween.jpeg)
+![](images/2024_halloween.jpeg){width=4in}
 
 **2024 Halloween Party.** *From left: Elf (Olivia), Farmer (Lydia), Tennis Pro (Andreas), Jurassic Park's Dr. Ellie Sattler (Lauren), Black Swan (Maggi).*
 :::
 
 ::: {fig-align="center"}
-![](images/2024_vogs.jpeg)
+![](images/2024_vogs.jpeg){width=4in}
 
 **2024 VOGs and Egg Nog outreach event planned and executed by Olivia.** *From left: Andreas, Olivia, Maggi, Lauren.*
 :::
 
 
 ::: {fig-align="center"}
-![](images/ASLO_GroupShot.jpeg)
+![](images/ASLO_GroupShot.jpeg){width=4in}
 
 **2025 MICOlab at the ASLO Aquatic Sciences Meeting in Charlotte, North Carolina, March 26–31.** *From left: Maggi, Lydia, Lauren.*
 :::
