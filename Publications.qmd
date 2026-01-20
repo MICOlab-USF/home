@@ -4,11 +4,15 @@ title: "Publications"
 
 **Submitted**
 
-- Allen, A., Fussy, Z., Lampe, R., Arrigo, K., Barry, K., **Mars Brisbin, M.**, … DiTullio, G. (2024) Genome-resolved biogeography of Phaeocystales, cosmopolitan bloom-forming algae. *Research Square*. [link](https://doi.org/10.21203/rs.3.rs-4339559/v1).
+- Ruggles Howe, L., D'Amore, L., Lopez, C., Shankar, S., **Mars Brisbin, M.** (2025) B-vitamin requirements and phycosphere interactions for the HAB-forming dinoflagellate, *Pyrodinium bahamense* var. *bahamense*. *bioRxiv*. [link](https://www.biorxiv.org/content/10.64898/2025.12.19.695638v2).
 
--   Kell, R.M., Subhas, A.V., Schanke, N.L., Lees, L.E., Chmiel, R.J., Rao, D., **Mars Brisbin, M.**, Moran, D.M., McIlvin, M.R. Bolinesi, F., Mangoni, O., Casotti, R., Balestra, C., Horner, T.J., Dunbar, R.B., Allen, A.E., DiTullio, G.R., Saito, M.A. Zinc stimulation of coastal productivity in low carbon dioxide environments. *bioRxiv*. (2023). [link](https://doi.org/10.1101/2023.11.05.565706). 
+- Krinos, A.I., **Mars Brisbin, M.**, Costa, A., Shapiro, A.K., Follows, M.J., Freilich, M., Alexander, H. (2026) Nutrient response strategies drive coastal range shifts of phytoplankton taxa. *bioRxiv*. [link](https://www.biorxiv.org/content/10.64898/2026.01.13.699386v1).
 
 **2025**
+
+- Fussy, Z., Lampe, R., Arrigo, K., Barry, K., **Mars Brisbin, M.**, … Allen, A.E. (2025) Genome-resolved biogeography of Phaeocystales, cosmopolitan bloom-forming algae. *Nature Communications*. [link](https://www.nature.com/articles/s41467-025-63565-1).
+
+-   Kell, R.M., Subhas, A.V., Schanke, N.L., Lees, L.E., Chmiel, R.J., Rao, D., **Mars Brisbin, M.**, Moran, D.M., McIlvin, M.R. Bolinesi, F., Mangoni, O., Casotti, R., Balestra, C., Horner, T.J., Dunbar, R.B., Allen, A.E., DiTullio, G.R., Saito, M.A. (2025) Zinc stimulation of phytoplankton in a low-carbon-dioxide, coastal Antarctic environment: evidence for the Zn hypothesis. *Biogeosciences*. [link](https://bg.copernicus.org/articles/22/5877/2025/).
 
 - **Mars Brisbin, M.**, Acord, M., Davitt, R., Bent, S., Van Mooy, B.A.S., Flaum, E., Norlin, A., Turner, J., Krinos, A., Alexander, H., Saito, M. (2025) Exploring the Phaeosphere: Characterizing the microbiomes of Phaeocystis antarctica colonies from the coastal Southern Ocean and laboratory culture. *Journal of Phycology*. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/jpy.70051). [**Full-text PDF available.**](https://drive.google.com/file/d/1aNpsTGO1u-y2bglaNi5LTHRQ7JA3eeKk/view?usp=sharing) 
 
