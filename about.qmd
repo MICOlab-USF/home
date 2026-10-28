@@ -8,7 +8,6 @@ title: "People"
 **Margaret (Maggi) Mars Brisbin** (she/her) is the PI of the MICOlab and an Assistant Professor at the University of South Florida's College of Marine Science. Maggi completed her Ph.D. at the Okinawa Institute of Science and Technology (Japan), where she worked under Prof. Satoshi Mitarai to comprehensively characterize the symbiosis between acantharian protists and the Haptophyte phytoplankton *Phaeocystis*. Side projects and ongoing interests from Okinawa include investigating how extreme storms and urbanization dimpact microbes in coastal ecosystems. Recent research focuses on positive and negative interactions between *Phaeocystis* and their colony microbiomes, and the impact these interactions may have on bloom formation in different regions. Maggi is passionate about science communication, outreach, and building an inclusive and supportive lab.<br /> [![bluesky](images/Bluesky_Logo.png)](https://bsky.app/profile/margaretbrisbin.bsky.social) [![email](images/email.png)](mailto:mmarsbrisbin@usf.com) [![scholar](images/scholar.png)](https://scholar.google.com/citations?user=cx44qVMAAAAJ&hl=en&oi=ao)
 :::
 
-
 ::: {layout="[10,-2,30]" layout-valign="center"}
 ![](images/Lilianna.png)
 
@@ -19,6 +18,12 @@ title: "People"
 ![](images/sunshine_skyway.png)
 
 **Casey Breslow** joined the MICO lab as an M.Sc. student in the Summer of 2026. She is interested in how the phytoplankton community in the Southern Ocean shifts and responds to physicochemical changes, such as meltwater, sea ice concentration, and available nutrients. She is currently working on a project to identify the community composition in the summer months in the Weddell Sea, and determine if limiting nutrients include iron and/or B12. Outside of the lab, Casey enjoys cycling, scuba diving, and exploring the local area with her dog Pumpkin. She hopes to pursue a career that allows her to improve conservation methods, while exploring new places. <br /> [![email](images/email.png)](mailto:caseybreslow@usf.edu)
+:::
+
+::: {layout="[10,-2,30]" layout-valign="center"}
+![](images/sunshine_skyway.png)
+
+**Emmaline Miller** joined the MICO lab as an M.Sc. student in the Fall of 2026. She is extremely interested in investigating how large-scale processes such as climate change impact small-scale organisms like plankton. She is currently studying the interactions between phytoplankton, bacteria, and the essential vitamin B12 in marine environments. In her free time, Emmaline loves to read, and explore any (and all) bodies of water. She aims to build a career that drives clear scientific understanding, and benefits the ocean that she loves so much. <br /> [![email](images/email.png)](mailto:emmaline2@usf.edu)
 :::
 
 ::: {layout="[10,-2,30]" layout-valign="center"}
